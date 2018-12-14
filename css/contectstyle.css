@@ -1,0 +1,15 @@
+.card{
+    width: 500px;
+    box-shadow: 4px 6px 8px 3px #847777;
+}
+.ok{
+    color: white;
+    display: none;
+}
+.notok{
+    color: white;
+    display: none;
+}
+.btn{
+    margin-left: 200px;
+}
